@@ -1,7 +1,8 @@
-api_hash: your_api_hash
-api_id: your_api_id
+api_hash: 34982b52c4a83c2af3ce8f4fe12fe4e1
+api_id: 22419004
+bot_token: 7281405389:AAF6L05hGNMlIYrWbV7LTASwPpPRwbc3MVQ
 chat:
-- chat_id: telegram_chat_id
+- chat_id: 6742022802
   last_read_message_id: 0
 file_formats:
   audio:
