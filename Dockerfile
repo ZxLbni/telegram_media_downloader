@@ -22,4 +22,4 @@ COPY config.yaml data.yaml setup.py media_downloader.py /app/
 COPY module /app/module
 COPY utils /app/utils
 
-CMD ["python", "media_downloader.py"]
+CMD ["python3", "media_downloader.py"]
